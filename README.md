@@ -300,4 +300,4 @@ Public GitHub can't fully prove private-team impact, collaboration history, or p
 - [`genai-mil-hackathon-final`](https://github.com/rhprasad0/genai-mil-hackathon-final) — synthetic AI safety/eval harness
 - [`data-exfil-prompt-injection-demo`](https://github.com/rhprasad0/data-exfil-prompt-injection-demo) — educational prompt-injection demo
 
-<!-- profile-readme-refresh: 2026-06-21 -->
+<!-- profile-readme-refresh: 2026-07-07 -->
